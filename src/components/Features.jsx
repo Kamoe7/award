@@ -89,7 +89,7 @@ const Features = () => {
                     src="videos/feature-4.mp4"
                     title={
                     <>
-                        az<b>u</b>l
+                        o<b>x</b>y
                     </>
                     }
                     description="A cross-world AI Agent - elevating your gameplay to be more fun and productive."
